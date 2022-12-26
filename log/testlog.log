@@ -1,0 +1,198 @@
+2022-12-20 22:48:44,517 - ebanking -INFO - Open BaseURL
+2022-12-20 22:48:44,630 - ebanking -INFO - Enter Password
+2022-12-20 22:48:45,451 - ebanking -INFO - Enter Password
+2022-12-20 22:48:52,400 - ebanking -INFO - Login Test Case :- Pass
+2022-12-21 00:29:57,898 - ebanking -INFO - Open BaseURL
+2022-12-21 00:29:58,417 - ebanking -INFO - Enter Password
+2022-12-21 00:29:59,245 - ebanking -INFO - Enter Password
+2022-12-21 00:30:27,368 - ebanking -INFO - Login Test Case :- Pass
+2022-12-21 00:35:45,584 - ebanking -INFO - Open BaseURL
+2022-12-21 00:35:46,046 - ebanking -INFO - Enter Password
+2022-12-21 00:35:50,486 - ebanking -INFO - Enter Password
+2022-12-21 00:36:18,198 - ebanking -INFO - Login Test Case :- Pass
+2022-12-21 00:57:27,352 - ebanking -INFO - Open BaseURL
+2022-12-21 00:57:27,601 - ebanking -INFO - Enter Password
+2022-12-21 00:57:31,232 - ebanking -INFO - Enter Password
+2022-12-21 00:57:52,452 - ebanking -INFO - Login Test Case :- Pass
+2022-12-21 01:02:26,516 - ebanking -INFO - Open BaseURL
+2022-12-21 01:02:26,754 - ebanking -INFO - Enter Password
+2022-12-21 01:02:31,508 - ebanking -INFO - Enter Password
+2022-12-21 01:03:05,817 - ebanking -INFO - Login Test Case :- Pass
+2022-12-21 01:03:17,838 - ebanking -INFO - Enter Password
+2022-12-21 01:52:19,816 - ebanking -INFO - Open BaseURL
+2022-12-21 01:52:19,987 - ebanking -INFO - Enter Password
+2022-12-21 01:52:21,549 - ebanking -INFO - Enter Password
+2022-12-21 01:52:31,298 - ebanking -INFO - Login Test Case :- Pass
+2022-12-21 01:52:43,330 - ebanking -INFO - Open BaseURL
+2022-12-21 01:52:43,335 - ebanking -INFO - Enter Password
+2022-12-21 01:52:47,467 - ebanking -INFO - Enter Password
+2022-12-21 01:53:03,353 - ebanking -INFO - Click On New Customer
+2022-12-25 21:42:57,578 - ebanking -INFO - Open BaseURL
+2022-12-25 21:42:57,669 - ebanking -INFO - Enter Password
+2022-12-25 21:42:57,797 - ebanking -INFO - Enter Password
+2022-12-25 21:43:00,670 - ebanking -INFO - Login Test Case :- Pass
+2022-12-26 21:50:11,892 - ebanking -INFO - Open BaseURL
+2022-12-26 21:50:12,018 - ebanking -INFO - Enter Password
+2022-12-26 21:50:12,163 - ebanking -INFO - Enter Password
+2022-12-26 21:50:16,907 - ebanking -INFO - Click On New Customer
+2022-12-26 23:12:12,448 - ebanking -INFO - Open BaseURL
+2022-12-26 23:12:12,488 - ebanking -INFO - Enter Password
+2022-12-26 23:12:12,640 - ebanking -INFO - Enter Password
+2022-12-26 23:12:17,891 - ebanking -INFO - Click On New Customer
+2022-12-26 23:12:51,622 - ebanking -INFO - Open BaseURL
+2022-12-26 23:12:51,670 - ebanking -INFO - Enter Password
+2022-12-26 23:12:51,853 - ebanking -INFO - Enter Password
+2022-12-26 23:12:56,797 - ebanking -INFO - Click On New Customer
+2022-12-26 23:13:59,588 - ebanking -INFO - Open BaseURL
+2022-12-26 23:13:59,637 - ebanking -INFO - Enter Password
+2022-12-26 23:13:59,791 - ebanking -INFO - Enter Password
+2022-12-26 23:14:02,271 - ebanking -INFO - Login Test Case :- Pass
+2022-12-26 23:14:06,851 - ebanking -INFO - Open BaseURL
+2022-12-26 23:14:06,851 - ebanking -INFO - Enter Password
+2022-12-26 23:14:07,005 - ebanking -INFO - Enter Password
+2022-12-26 23:14:12,066 - ebanking -INFO - Click On New Customer
+2022-12-26 23:15:01,493 - ebanking -INFO - URL is Open
+2022-12-26 23:15:01,785 - ebanking -INFO - Enter UserName
+2022-12-26 23:15:01,895 - ebanking -INFO - Enter Password
+2022-12-26 23:15:07,373 - ebanking -INFO - Click On New Customer
+2022-12-26 23:15:07,604 - ebanking -INFO - Cutomer Name
+2022-12-26 23:15:07,672 - ebanking -INFO - Cutomer Gender
+2022-12-26 23:15:07,936 - ebanking -INFO - Cutomer Date of Birth
+2022-12-26 23:15:08,107 - ebanking -INFO - Cutomer Address
+2022-12-26 23:15:08,252 - ebanking -INFO - Cutomer City
+2022-12-26 23:15:08,377 - ebanking -INFO - Cutomer State
+2022-12-26 23:15:08,523 - ebanking -INFO - Cutomer PinCode
+2022-12-26 23:15:08,677 - ebanking -INFO - Cutomer Mobile Number
+2022-12-26 23:15:08,822 - ebanking -INFO - Cutomer Email Address
+2022-12-26 23:15:08,932 - ebanking -INFO - Cutomer Password
+2022-12-26 23:15:09,061 - ebanking -INFO - Succesfully Click On Submit Button
+2022-12-26 23:15:30,543 - ebanking -INFO - Open BaseURL
+2022-12-26 23:15:30,578 - ebanking -INFO - Enter Password
+2022-12-26 23:15:30,731 - ebanking -INFO - Enter Password
+2022-12-26 23:15:33,099 - ebanking -INFO - Login Test Case :- Pass
+2022-12-26 23:15:39,237 - ebanking -INFO - Open BaseURL
+2022-12-26 23:15:39,240 - ebanking -INFO - Enter Password
+2022-12-26 23:15:39,387 - ebanking -INFO - Enter Password
+2022-12-26 23:15:44,381 - ebanking -INFO - Click On New Customer
+2022-12-26 23:15:48,821 - ebanking -INFO - URL is Open
+2022-12-26 23:15:48,981 - ebanking -INFO - Enter UserName
+2022-12-26 23:15:49,090 - ebanking -INFO - Enter Password
+2022-12-26 23:15:53,877 - ebanking -INFO - Click On New Customer
+2022-12-26 23:15:53,994 - ebanking -INFO - Cutomer Name
+2022-12-26 23:15:54,133 - ebanking -INFO - Cutomer Gender
+2022-12-26 23:15:54,347 - ebanking -INFO - Cutomer Date of Birth
+2022-12-26 23:15:54,495 - ebanking -INFO - Cutomer Address
+2022-12-26 23:15:54,648 - ebanking -INFO - Cutomer City
+2022-12-26 23:15:54,752 - ebanking -INFO - Cutomer State
+2022-12-26 23:15:54,845 - ebanking -INFO - Cutomer PinCode
+2022-12-26 23:15:54,936 - ebanking -INFO - Cutomer Mobile Number
+2022-12-26 23:15:55,071 - ebanking -INFO - Cutomer Email Address
+2022-12-26 23:15:55,211 - ebanking -INFO - Cutomer Password
+2022-12-26 23:15:55,348 - ebanking -INFO - Succesfully Click On Submit Button
+2022-12-26 23:37:11,202 - ebanking -INFO - URL is Open
+2022-12-26 23:37:11,569 - ebanking -INFO - Enter UserName
+2022-12-26 23:37:11,692 - ebanking -INFO - Enter Password
+2022-12-26 23:37:16,429 - ebanking -INFO - Click On New Customer
+2022-12-26 23:37:16,797 - ebanking -INFO - Cutomer Name
+2022-12-26 23:37:16,864 - ebanking -INFO - Cutomer Gender
+2022-12-26 23:37:17,148 - ebanking -INFO - Cutomer Date of Birth
+2022-12-26 23:37:17,371 - ebanking -INFO - Cutomer Address
+2022-12-26 23:37:17,629 - ebanking -INFO - Cutomer City
+2022-12-26 23:37:17,822 - ebanking -INFO - Cutomer State
+2022-12-26 23:37:18,037 - ebanking -INFO - Cutomer PinCode
+2022-12-26 23:37:18,290 - ebanking -INFO - Cutomer Mobile Number
+2022-12-26 23:37:18,612 - ebanking -INFO - Cutomer Email Address
+2022-12-26 23:37:18,937 - ebanking -INFO - Cutomer Password
+2022-12-26 23:37:19,483 - ebanking -INFO - Succesfully Click On Submit Button
+2022-12-26 23:53:44,776 - ebanking -INFO - Open BaseURL
+2022-12-26 23:53:44,801 - ebanking -INFO - Enter Password
+2022-12-26 23:53:44,931 - ebanking -INFO - Enter Password
+2022-12-26 23:53:47,200 - ebanking -INFO - Login Test Case :- Pass
+2022-12-26 23:53:52,709 - ebanking -INFO - Open BaseURL
+2022-12-26 23:53:52,710 - ebanking -INFO - Enter Password
+2022-12-26 23:53:52,800 - ebanking -INFO - Enter Password
+2022-12-26 23:53:57,324 - ebanking -INFO - Click On New Customer
+2022-12-26 23:54:01,568 - ebanking -INFO - URL is Open
+2022-12-26 23:54:01,701 - ebanking -INFO - Enter UserName
+2022-12-26 23:54:01,819 - ebanking -INFO - Enter Password
+2022-12-26 23:54:05,957 - ebanking -INFO - Click On New Customer
+2022-12-26 23:54:06,057 - ebanking -INFO - Cutomer Name
+2022-12-26 23:54:06,182 - ebanking -INFO - Cutomer Gender
+2022-12-26 23:54:06,349 - ebanking -INFO - Cutomer Date of Birth
+2022-12-26 23:54:06,424 - ebanking -INFO - Cutomer Address
+2022-12-26 23:54:06,485 - ebanking -INFO - Cutomer City
+2022-12-26 23:54:06,561 - ebanking -INFO - Cutomer State
+2022-12-26 23:54:06,628 - ebanking -INFO - Cutomer PinCode
+2022-12-26 23:54:06,702 - ebanking -INFO - Cutomer Mobile Number
+2022-12-26 23:54:06,799 - ebanking -INFO - Cutomer Email Address
+2022-12-26 23:54:06,864 - ebanking -INFO - Cutomer Password
+2022-12-26 23:54:07,280 - ebanking -INFO - Succesfully Click On Submit Button
+2022-12-27 00:28:51,608 - ebanking -INFO - Open BaseURL
+2022-12-27 00:28:51,634 - ebanking -INFO - Enter Password
+2022-12-27 00:28:51,834 - ebanking -INFO - Enter Password
+2022-12-27 00:28:53,912 - ebanking -INFO - Login Test Case :- Pass
+2022-12-27 00:28:59,790 - ebanking -INFO - Open BaseURL
+2022-12-27 00:28:59,791 - ebanking -INFO - Enter Password
+2022-12-27 00:28:59,907 - ebanking -INFO - Enter Password
+2022-12-27 00:29:05,546 - ebanking -INFO - Click On New Customer
+2022-12-27 00:29:10,172 - ebanking -INFO - URL is Open
+2022-12-27 00:29:10,254 - ebanking -INFO - Enter UserName
+2022-12-27 00:29:10,332 - ebanking -INFO - Enter Password
+2022-12-27 00:29:15,081 - ebanking -INFO - Click On New Customer
+2022-12-27 00:29:15,174 - ebanking -INFO - Cutomer Name
+2022-12-27 00:29:15,262 - ebanking -INFO - Cutomer Gender
+2022-12-27 00:29:15,413 - ebanking -INFO - Cutomer Date of Birth
+2022-12-27 00:29:15,477 - ebanking -INFO - Cutomer Address
+2022-12-27 00:29:15,540 - ebanking -INFO - Cutomer City
+2022-12-27 00:29:15,606 - ebanking -INFO - Cutomer State
+2022-12-27 00:29:15,673 - ebanking -INFO - Cutomer PinCode
+2022-12-27 00:29:15,753 - ebanking -INFO - Cutomer Mobile Number
+2022-12-27 00:29:15,847 - ebanking -INFO - Cutomer Email Address
+2022-12-27 00:29:15,912 - ebanking -INFO - Cutomer Password
+2022-12-27 00:29:16,324 - ebanking -INFO - Succesfully Click On Submit Button
+2022-12-27 00:29:49,857 - ebanking -INFO - Open Base URL
+2022-12-27 00:29:50,012 - ebanking -INFO - Enter UserName
+2022-12-27 00:29:50,114 - ebanking -INFO - Enter Password
+2022-12-27 00:31:53,326 - ebanking -INFO - Open Base URL
+2022-12-27 00:31:53,478 - ebanking -INFO - Enter UserName
+2022-12-27 00:31:53,594 - ebanking -INFO - Enter Password
+2022-12-27 00:32:44,333 - ebanking -INFO - Open Base URL
+2022-12-27 00:32:44,477 - ebanking -INFO - Enter UserName
+2022-12-27 00:32:44,603 - ebanking -INFO - Enter Password
+2022-12-27 00:32:49,364 - ebanking -INFO - Click On Add New Customer
+2022-12-27 00:32:49,447 - ebanking -INFO - Enter Cutomer ID
+2022-12-27 00:32:49,595 - ebanking -INFO - Click On Customer Acoount Type
+2022-12-27 00:32:49,657 - ebanking -INFO - Enter Cutomer Account Type
+2022-12-27 00:32:49,728 - ebanking -INFO - Enter Cutomer Initial Deposit Amount
+2022-12-27 00:34:20,378 - ebanking -INFO - Open BaseURL
+2022-12-27 00:34:20,397 - ebanking -INFO - Enter Password
+2022-12-27 00:34:20,516 - ebanking -INFO - Enter Password
+2022-12-27 00:34:22,711 - ebanking -INFO - Login Test Case :- Pass
+2022-12-27 00:34:26,971 - ebanking -INFO - Open BaseURL
+2022-12-27 00:34:26,972 - ebanking -INFO - Enter Password
+2022-12-27 00:34:27,070 - ebanking -INFO - Enter Password
+2022-12-27 00:34:31,778 - ebanking -INFO - Click On New Customer
+2022-12-27 00:34:36,170 - ebanking -INFO - URL is Open
+2022-12-27 00:34:36,324 - ebanking -INFO - Enter UserName
+2022-12-27 00:34:36,419 - ebanking -INFO - Enter Password
+2022-12-27 00:34:40,550 - ebanking -INFO - Click On New Customer
+2022-12-27 00:34:40,633 - ebanking -INFO - Cutomer Name
+2022-12-27 00:34:40,734 - ebanking -INFO - Cutomer Gender
+2022-12-27 00:34:40,888 - ebanking -INFO - Cutomer Date of Birth
+2022-12-27 00:34:40,953 - ebanking -INFO - Cutomer Address
+2022-12-27 00:34:41,018 - ebanking -INFO - Cutomer City
+2022-12-27 00:34:41,092 - ebanking -INFO - Cutomer State
+2022-12-27 00:34:41,160 - ebanking -INFO - Cutomer PinCode
+2022-12-27 00:34:41,234 - ebanking -INFO - Cutomer Mobile Number
+2022-12-27 00:34:41,331 - ebanking -INFO - Cutomer Email Address
+2022-12-27 00:34:41,409 - ebanking -INFO - Cutomer Password
+2022-12-27 00:34:41,812 - ebanking -INFO - Succesfully Click On Submit Button
+2022-12-27 00:34:45,959 - ebanking -INFO - Open Base URL
+2022-12-27 00:34:46,058 - ebanking -INFO - Enter UserName
+2022-12-27 00:34:46,140 - ebanking -INFO - Enter Password
+2022-12-27 00:34:50,586 - ebanking -INFO - Click On Add New Customer
+2022-12-27 00:34:50,692 - ebanking -INFO - Enter Cutomer ID
+2022-12-27 00:34:50,821 - ebanking -INFO - Click On Customer Acoount Type
+2022-12-27 00:34:50,887 - ebanking -INFO - Enter Cutomer Account Type
+2022-12-27 00:34:50,975 - ebanking -INFO - Enter Cutomer Initial Deposit Amount
+2022-12-27 00:34:52,812 - ebanking -INFO - Account Open Succesfully
