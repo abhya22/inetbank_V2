@@ -8,23 +8,25 @@ import com.inetbanking.PageObject.NewCutomer;
 
 public class TC_NewCutomer_002 extends BaseClass {
 
-		@Test
-		public void TestNewCust() {	
-			driver.get(BaseURL);
-			Logger.info("Open BaseURL");
-			
-			
-			LoginPage LP = new LoginPage();
-			Logger.info("Enter Password");
-			LP.SetUserName(Username);
-			Logger.info("Enter Password");
-			LP.SetPassword(Password);
-			LP.clicksbmt();
-			
-			
-			NewCutomer cust = new NewCutomer();
-			cust.NC();
-			Logger.info("Click On New Customer");
-		}
-}
+	@Test
+	public void TestNewCust() {
 
+		// 1. Open Base URL
+		driver.get(BaseURL);
+		Logger.info("Open BaseURL");
+
+		// 2. Enter Login Credential
+		LoginPage LP = new LoginPage();
+		LP.SetUserName(Username);
+		Logger.info("Enter Username For Check Functionality Of TestNewCust");
+		LP.SetPassword(Password);
+		Logger.info("Enter Password For Check Functionality Of TestNewCust");
+		LP.clicksbmt();
+		Logger.info("Click On Submit Buttton For Check Functionality Of TestNewCust");
+
+		// 3. Click On New Customer
+		NewCutomer cust = new NewCutomer();
+		cust.NC();
+		Logger.info("Click On New Customer Succesfully");
+	}
+}

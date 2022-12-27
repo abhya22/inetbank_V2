@@ -6,7 +6,19 @@
       <class name="inetBanking_V2.TC_LoginPageTest_001"/>
       <class name="inetBanking_V2.TC_NewCutomer_002"/>
       <class name="inetBanking_V2.TC_AddCutomerPage_003"/>
-       <class name="inetBanking_V2.TC_AddNewAccount_004"/>
+      <class name="inetBanking_V2.TC_EditCustomer_004"/>
+       <class name="inetBanking_V2.TC_AddNewAccount_005"/>
+       <class name="inetBanking_V2.TC_EditAccount_006"/>
+       <class name="inetBanking_V2.TC_Deposit_007"/>
+       <class name="inetBanking_V2.TC_Withdrawal_008"/>
+       <class name="inetBanking_V2.TC_FundTransfer_009"/>
+       <class name="inetBanking_V2.TC_ChangePassword_010"/>    
+       <class name="inetBanking_V2.TC_BalanceEnquiry_011"/>   
+       <class name="inetBanking_V2.TC_MiniStatement_012"/>
+       <class name="inetBanking_V2.TC_CutomizedStatement_013"/>  
+       <class name="inetBanking_V2.TC_DeleteAccount_014"/>
+       <class name="inetBanking_V2.TC_DeleteCustomer_015"/>
+       <class name="inetBanking_V2.TC_LogOut_016"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

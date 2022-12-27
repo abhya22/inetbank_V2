@@ -11,14 +11,14 @@ public class NewCutomer extends BaseClass {
 	public NewCutomer() {
 		PageFactory.initElements(driver, this);
 	}
-	
-	@FindBy(xpath="//a[text()=\"New Customer\"]")
+
+	@FindBy(xpath = "//a[text()=\"New Customer\"]")
 	public WebElement NewCust;
-	
+
 	public void NC() {
 		NewCust.click();
 		driver.navigate().refresh();
 		NewCust.click();
 	}
-	
+
 }

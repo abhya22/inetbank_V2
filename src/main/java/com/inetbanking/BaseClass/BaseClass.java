@@ -12,15 +12,15 @@ import org.testng.annotations.BeforeMethod;
 import com.inetbanking.Utilities.ReadConfiguration;
 
 public class BaseClass {
-	
+
 	ReadConfiguration readConfiguration = new ReadConfiguration();
 	public String BaseURL = readConfiguration.getApplicationURL();
 	public String Username = readConfiguration.getUserName();
 	public String Password = readConfiguration.getPassword();
 	public static WebDriver driver;
 	public static Logger Logger;
-	
-	//@BeforeClass
+
+	// @BeforeClass
 	@SuppressWarnings("static-access")
 	@BeforeMethod
 	public void Setup() {
@@ -29,15 +29,16 @@ public class BaseClass {
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(50));
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(50));
-		
+
 		Logger = Logger.getLogger("ebanking");
 		PropertyConfigurator.configure("Log4j.properties");
-		
+
 	}
 
-	//@AfterClass
+	// @AfterClass
 	@AfterMethod
-	public void Teardown() {
+	public void Teardown() throws InterruptedException {
+		Thread.sleep(3000);
 		driver.quit();
 	}
 }

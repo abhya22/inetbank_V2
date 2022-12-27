@@ -196,3 +196,641 @@
 2022-12-27 00:34:50,887 - ebanking -INFO - Enter Cutomer Account Type
 2022-12-27 00:34:50,975 - ebanking -INFO - Enter Cutomer Initial Deposit Amount
 2022-12-27 00:34:52,812 - ebanking -INFO - Account Open Succesfully
+2022-12-27 02:16:17,321 - ebanking -INFO - Open Base URL
+2022-12-27 02:16:17,583 - ebanking -INFO - Enter Username
+2022-12-27 02:16:17,716 - ebanking -INFO - Enter Password
+2022-12-27 02:16:20,148 - ebanking -INFO - Click On Submit Button
+2022-12-27 02:17:18,399 - ebanking -INFO - Open Base URL
+2022-12-27 02:17:18,643 - ebanking -INFO - Enter Username
+2022-12-27 02:17:18,768 - ebanking -INFO - Enter Password
+2022-12-27 02:17:21,126 - ebanking -INFO - Click On Submit Button
+2022-12-27 02:17:24,136 - ebanking -INFO - Click on Deposit
+2022-12-27 02:17:24,417 - ebanking -INFO - Enter Account Number
+2022-12-27 02:17:24,508 - ebanking -INFO - Enter Deposit Amount
+2022-12-27 02:17:24,617 - ebanking -INFO - Enter Narration
+2022-12-27 02:17:25,226 - ebanking -INFO - Succesfully Created Deposit Account
+2022-12-27 02:18:57,793 - ebanking -INFO - Open BaseURL
+2022-12-27 02:18:57,871 - ebanking -INFO - Enter Password
+2022-12-27 02:18:58,062 - ebanking -INFO - Enter Password
+2022-12-27 02:19:00,264 - ebanking -INFO - Login Test Case :- Pass
+2022-12-27 02:19:10,078 - ebanking -INFO - Open BaseURL
+2022-12-27 02:19:10,080 - ebanking -INFO - Enter Password
+2022-12-27 02:19:10,359 - ebanking -INFO - Enter Password
+2022-12-27 02:19:15,628 - ebanking -INFO - Click On New Customer
+2022-12-27 02:19:25,128 - ebanking -INFO - URL is Open
+2022-12-27 02:19:25,390 - ebanking -INFO - Enter UserName
+2022-12-27 02:19:25,508 - ebanking -INFO - Enter Password
+2022-12-27 02:19:30,223 - ebanking -INFO - Click On New Customer
+2022-12-27 02:19:30,504 - ebanking -INFO - Cutomer Name
+2022-12-27 02:19:30,586 - ebanking -INFO - Cutomer Gender
+2022-12-27 02:19:30,799 - ebanking -INFO - Cutomer Date of Birth
+2022-12-27 02:19:30,965 - ebanking -INFO - Cutomer Address
+2022-12-27 02:19:31,130 - ebanking -INFO - Cutomer City
+2022-12-27 02:19:31,289 - ebanking -INFO - Cutomer State
+2022-12-27 02:19:31,423 - ebanking -INFO - Cutomer PinCode
+2022-12-27 02:19:31,589 - ebanking -INFO - Cutomer Mobile Number
+2022-12-27 02:19:31,799 - ebanking -INFO - Cutomer Email Address
+2022-12-27 02:19:31,899 - ebanking -INFO - Cutomer Password
+2022-12-27 02:19:32,430 - ebanking -INFO - Succesfully Click On Submit Button
+2022-12-27 02:19:41,981 - ebanking -INFO - Open Base URL
+2022-12-27 02:19:42,238 - ebanking -INFO - Enter UserName
+2022-12-27 02:19:42,345 - ebanking -INFO - Enter Password
+2022-12-27 02:19:47,244 - ebanking -INFO - Click On Add New Customer
+2022-12-27 02:19:47,466 - ebanking -INFO - Enter Cutomer ID
+2022-12-27 02:19:47,563 - ebanking -INFO - Click On Customer Acoount Type
+2022-12-27 02:19:47,639 - ebanking -INFO - Enter Cutomer Account Type
+2022-12-27 02:19:47,720 - ebanking -INFO - Enter Cutomer Initial Deposit Amount
+2022-12-27 02:19:50,194 - ebanking -INFO - Account Open Succesfully
+2022-12-27 02:20:00,508 - ebanking -INFO - Open Base URL
+2022-12-27 02:20:00,768 - ebanking -INFO - Enter Username
+2022-12-27 02:20:00,890 - ebanking -INFO - Enter Password
+2022-12-27 02:20:03,337 - ebanking -INFO - Click On Submit Button
+2022-12-27 02:20:06,596 - ebanking -INFO - Click on Deposit
+2022-12-27 02:20:06,886 - ebanking -INFO - Enter Account Number
+2022-12-27 02:20:06,984 - ebanking -INFO - Enter Deposit Amount
+2022-12-27 02:20:07,084 - ebanking -INFO - Enter Narration
+2022-12-27 02:20:07,688 - ebanking -INFO - Succesfully Created Deposit Account
+2022-12-27 02:23:16,187 - ebanking -INFO - Open BaseURL
+2022-12-27 02:23:16,217 - ebanking -INFO - Enter Password
+2022-12-27 02:23:16,366 - ebanking -INFO - Enter Password
+2022-12-27 02:23:19,117 - ebanking -INFO - Login Test Case :- Pass
+2022-12-27 13:34:04,769 - ebanking -INFO - Open Base URL
+2022-12-27 13:34:05,016 - ebanking -INFO - Enter Username for check functionality of TestWithdrawal
+2022-12-27 13:34:05,301 - ebanking -INFO - Enter Password for check functionality of TestWithdrawal
+2022-12-27 13:34:06,938 - ebanking -INFO - Click On Submit Button for check functionality of TestWithdrawal
+2022-12-27 13:35:45,469 - ebanking -INFO - Open Base URL
+2022-12-27 13:35:45,664 - ebanking -INFO - Enter Username for check functionality of TestWithdrawal
+2022-12-27 13:35:45,763 - ebanking -INFO - Enter Password for check functionality of TestWithdrawal
+2022-12-27 13:35:50,551 - ebanking -INFO - Click On Submit Button for check functionality of TestWithdrawal
+2022-12-27 13:35:54,338 - ebanking -INFO - Click On Withdrawal for check functionality of TestWithdrawal
+2022-12-27 13:35:54,608 - ebanking -INFO - Enter Account Number for check functionality of TestWithdrawal
+2022-12-27 13:35:54,791 - ebanking -INFO - Enter Amount for check functionality of TestWithdrawal
+2022-12-27 13:35:54,947 - ebanking -INFO - Enter Narration for check functionality of TestWithdrawal
+2022-12-27 13:35:55,033 - ebanking -INFO - Amount Withdrawal Succesfully
+2022-12-27 13:36:32,947 - ebanking -INFO - Open Base URL
+2022-12-27 13:36:33,151 - ebanking -INFO - Enter Username for check functionality of TestWithdrawal
+2022-12-27 13:36:33,269 - ebanking -INFO - Enter Password for check functionality of TestWithdrawal
+2022-12-27 13:36:36,478 - ebanking -INFO - Click On Submit Button for check functionality of TestWithdrawal
+2022-12-27 13:36:41,674 - ebanking -INFO - Click On Withdrawal for check functionality of TestWithdrawal
+2022-12-27 13:36:41,930 - ebanking -INFO - Enter Account Number for check functionality of TestWithdrawal
+2022-12-27 13:36:42,035 - ebanking -INFO - Enter Amount for check functionality of TestWithdrawal
+2022-12-27 13:36:42,255 - ebanking -INFO - Enter Narration for check functionality of TestWithdrawal
+2022-12-27 13:36:43,649 - ebanking -INFO - Amount Withdrawal Succesfully
+2022-12-27 14:12:30,091 - ebanking -INFO - Open BaseURL
+2022-12-27 14:12:30,114 - ebanking -INFO - Enter Password
+2022-12-27 14:12:30,202 - ebanking -INFO - Enter Password
+2022-12-27 14:12:32,284 - ebanking -INFO - Login Test Case :- Pass
+2022-12-27 14:12:44,292 - ebanking -INFO - Open BaseURL
+2022-12-27 14:12:44,293 - ebanking -INFO - Enter Password
+2022-12-27 14:12:44,376 - ebanking -INFO - Enter Password
+2022-12-27 14:12:49,981 - ebanking -INFO - Click On New Customer
+2022-12-27 14:13:00,572 - ebanking -INFO - URL is Open
+2022-12-27 14:13:00,673 - ebanking -INFO - Enter UserName
+2022-12-27 14:13:00,764 - ebanking -INFO - Enter Password
+2022-12-27 14:13:05,145 - ebanking -INFO - Click On New Customer
+2022-12-27 14:13:05,217 - ebanking -INFO - Cutomer Name
+2022-12-27 14:13:05,299 - ebanking -INFO - Cutomer Gender
+2022-12-27 14:13:05,486 - ebanking -INFO - Cutomer Date of Birth
+2022-12-27 14:13:05,548 - ebanking -INFO - Cutomer Address
+2022-12-27 14:13:05,606 - ebanking -INFO - Cutomer City
+2022-12-27 14:13:05,669 - ebanking -INFO - Cutomer State
+2022-12-27 14:13:05,733 - ebanking -INFO - Cutomer PinCode
+2022-12-27 14:13:05,800 - ebanking -INFO - Cutomer Mobile Number
+2022-12-27 14:13:05,882 - ebanking -INFO - Cutomer Email Address
+2022-12-27 14:13:05,940 - ebanking -INFO - Cutomer Password
+2022-12-27 14:13:06,358 - ebanking -INFO - Succesfully Click On Submit Button
+2022-12-27 14:13:16,559 - ebanking -INFO - Open Base URL
+2022-12-27 14:13:16,632 - ebanking -INFO - Enter UserName
+2022-12-27 14:13:16,703 - ebanking -INFO - Enter Password
+2022-12-27 14:13:21,046 - ebanking -INFO - Click On Add New Customer
+2022-12-27 14:13:21,467 - ebanking -INFO - Enter Cutomer ID
+2022-12-27 14:13:21,532 - ebanking -INFO - Click On Customer Acoount Type
+2022-12-27 14:13:21,586 - ebanking -INFO - Enter Cutomer Account Type
+2022-12-27 14:13:21,640 - ebanking -INFO - Enter Cutomer Initial Deposit Amount
+2022-12-27 14:13:24,397 - ebanking -INFO - Account Open Succesfully
+2022-12-27 14:13:35,151 - ebanking -INFO - Open Base URL
+2022-12-27 14:13:35,227 - ebanking -INFO - Enter Username
+2022-12-27 14:13:35,340 - ebanking -INFO - Enter Password
+2022-12-27 14:13:36,917 - ebanking -INFO - Click On Submit Button
+2022-12-27 14:13:41,816 - ebanking -INFO - Click on Deposit
+2022-12-27 14:13:41,877 - ebanking -INFO - Enter Account Number
+2022-12-27 14:13:42,039 - ebanking -INFO - Enter Deposit Amount
+2022-12-27 14:13:42,153 - ebanking -INFO - Enter Narration
+2022-12-27 14:13:42,652 - ebanking -INFO - Succesfully Created Deposit Account
+2022-12-27 14:13:52,116 - ebanking -INFO - Open Base URL
+2022-12-27 14:13:52,246 - ebanking -INFO - Enter Username for check functionality of TestWithdrawal
+2022-12-27 14:13:52,375 - ebanking -INFO - Enter Password for check functionality of TestWithdrawal
+2022-12-27 14:13:54,031 - ebanking -INFO - Click On Submit Button for check functionality of TestWithdrawal
+2022-12-27 14:13:57,056 - ebanking -INFO - Click On Withdrawal for check functionality of TestWithdrawal
+2022-12-27 14:13:57,139 - ebanking -INFO - Enter Account Number for check functionality of TestWithdrawal
+2022-12-27 14:13:57,193 - ebanking -INFO - Enter Amount for check functionality of TestWithdrawal
+2022-12-27 14:13:57,258 - ebanking -INFO - Enter Narration for check functionality of TestWithdrawal
+2022-12-27 14:13:57,982 - ebanking -INFO - Amount Withdrawal Succesfully
+2022-12-27 14:14:09,345 - ebanking -INFO - Open Base URL
+2022-12-27 14:14:09,428 - ebanking -INFO - Enter Username For Check The Functionality Of TestFundTrf
+2022-12-27 14:14:09,569 - ebanking -INFO - Enter Password For Check The Functionality Of TestFundTrf
+2022-12-27 14:14:11,288 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-27 14:14:14,805 - ebanking -INFO - Click On Fund Trf For Check The Functionality Of TestFundTrf
+2022-12-27 14:14:14,868 - ebanking -INFO - Enter Applicant Acc No For Check The Functionality Of TestFundTrf
+2022-12-27 14:14:14,925 - ebanking -INFO - Enter Beneficiary Acc No For Check The Functionality Of TestFundTrf
+2022-12-27 14:14:15,036 - ebanking -INFO - Enter Amount For Check The Functionality Of TestFundTrf
+2022-12-27 14:14:15,122 - ebanking -INFO - Enter Narration For Check The Functionality Of TestFundTrf
+2022-12-27 14:14:15,840 - ebanking -INFO - Fund Trf Succesfully
+2022-12-28 00:24:58,457 - ebanking -INFO - Open BaseURL
+2022-12-28 00:24:58,681 - ebanking -INFO - Enter Username For Check The Functionality Of TestLoginPage
+2022-12-28 00:24:58,766 - ebanking -INFO - Enter Password For Check The Functionality Of TestLoginPage
+2022-12-28 00:25:00,824 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLoginPage
+2022-12-28 00:25:00,834 - ebanking -INFO - Login Test Case :- Pass
+2022-12-28 00:25:09,607 - ebanking -INFO - Open BaseURL
+2022-12-28 00:25:52,006 - ebanking -INFO - Open BaseURL
+2022-12-28 00:25:52,132 - ebanking -INFO - Enter Username For Check The Functionality Of TestLoginPage
+2022-12-28 00:25:52,252 - ebanking -INFO - Enter Password For Check The Functionality Of TestLoginPage
+2022-12-28 00:25:54,101 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLoginPage
+2022-12-28 00:25:54,109 - ebanking -INFO - Login Test Case :- Pass
+2022-12-28 00:26:01,171 - ebanking -INFO - Open BaseURL
+2022-12-28 00:26:01,270 - ebanking -INFO - Enter Username For Check Functionality Of TestNewCust
+2022-12-28 00:26:01,356 - ebanking -INFO - Enter Password For Check Functionality Of TestNewCust
+2022-12-28 00:26:03,188 - ebanking -INFO - Click On Submit Buttton For Check Functionality Of TestNewCust
+2022-12-28 00:26:05,590 - ebanking -INFO - Click On New Customer Succesfully
+2022-12-28 00:26:14,321 - ebanking -INFO - URL is Open
+2022-12-28 00:26:14,416 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:14,512 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:16,206 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:18,364 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:18,442 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:18,558 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:18,702 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:18,763 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:18,820 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:18,883 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:18,949 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:19,019 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:19,101 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:19,176 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 00:26:20,101 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 00:26:27,042 - ebanking -INFO - Open Base URL
+2022-12-28 00:26:27,143 - ebanking -INFO - Enter Username For Check The Functionality Of Edit Cutomer
+2022-12-28 00:26:27,223 - ebanking -INFO - Enter Password For Check The Functionality Of Edit Cutomer
+2022-12-28 00:26:29,071 - ebanking -INFO - Click On Submit Button For Check The Functionality Of Edit Cutomer
+2022-12-28 00:26:31,699 - ebanking -INFO - Click On Edit Customer For Check The Functionality Of TestFundTrf
+2022-12-28 00:26:31,763 - ebanking -INFO - Enter Cust ID For Check The Functionality Of TestFundTrf
+2022-12-28 00:26:34,820 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:26:34,869 - ebanking -INFO - Enter Address For Check The Functionality Of TestFundTrf
+2022-12-28 00:27:34,790 - ebanking -INFO - Open Base URL
+2022-12-28 00:27:34,895 - ebanking -INFO - Enter Username For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:30:40,333 - ebanking -INFO - Open BaseURL
+2022-12-28 00:30:40,476 - ebanking -INFO - Enter Username For Check The Functionality Of TestLoginPage
+2022-12-28 00:30:40,567 - ebanking -INFO - Enter Password For Check The Functionality Of TestLoginPage
+2022-12-28 00:30:43,930 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLoginPage
+2022-12-28 00:30:43,937 - ebanking -INFO - Login Test Case :- Pass
+2022-12-28 00:30:55,684 - ebanking -INFO - Open BaseURL
+2022-12-28 00:30:55,768 - ebanking -INFO - Enter Username For Check Functionality Of TestNewCust
+2022-12-28 00:30:55,896 - ebanking -INFO - Enter Password For Check Functionality Of TestNewCust
+2022-12-28 00:30:58,318 - ebanking -INFO - Click On Submit Buttton For Check Functionality Of TestNewCust
+2022-12-28 00:31:00,290 - ebanking -INFO - Click On New Customer Succesfully
+2022-12-28 00:31:09,524 - ebanking -INFO - URL is Open
+2022-12-28 00:31:09,668 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:09,757 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:11,922 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,215 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,289 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,407 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,553 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,619 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,679 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,756 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,816 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,885 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:14,967 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:15,029 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 00:31:15,942 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 00:31:22,839 - ebanking -INFO - Open Base URL
+2022-12-28 00:31:22,938 - ebanking -INFO - Enter Username For Check The Functionality Of TestEditCustomer
+2022-12-28 00:31:23,021 - ebanking -INFO - Enter Password For Check The Functionality Of TestEditCustomerr
+2022-12-28 00:31:24,910 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestEditCustomer
+2022-12-28 00:31:27,689 - ebanking -INFO - Click On Edit Customer For Check The Functionality Of TestFundTrf
+2022-12-28 00:31:27,757 - ebanking -INFO - Enter Cust ID For Check The Functionality Of TestFundTrf
+2022-12-28 00:31:32,170 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:32:29,619 - ebanking -INFO - Open Base URL
+2022-12-28 00:32:29,731 - ebanking -INFO - Enter Username For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:32:29,810 - ebanking -INFO - Enter Password For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:32:31,940 - ebanking -INFO - Click On Submit Button For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:32:34,076 - ebanking -INFO - Click On Add New Customer For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:32:34,152 - ebanking -INFO - Enter Customer ID For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:32:34,249 - ebanking -INFO - Enter Account Type For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:32:34,316 - ebanking -INFO - Select Account Type For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:32:34,394 - ebanking -INFO - Enter Deposit Amount For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:32:36,217 - ebanking -INFO - Account Open Succesfully
+2022-12-28 00:32:43,063 - ebanking -INFO - Open Base URL
+2022-12-28 00:32:43,162 - ebanking -INFO - Enter Username for check functionality of TestEditAccount
+2022-12-28 00:32:43,242 - ebanking -INFO - Enter Password for check functionality of TestEditAccount
+2022-12-28 00:32:45,109 - ebanking -INFO - Click On Submit Button for check functionality of TestEditAccount
+2022-12-28 00:32:47,576 - ebanking -INFO - Click on Edit Account check functionality of TestEditAccount
+2022-12-28 00:32:47,642 - ebanking -INFO - Enter Account Number check functionality of TestEditAccount
+2022-12-28 00:32:47,681 - ebanking -INFO - Account Edit Succesfully
+2022-12-28 00:32:54,922 - ebanking -INFO - Open Base URL
+2022-12-28 00:32:55,065 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeposit
+2022-12-28 00:32:55,156 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeposit
+2022-12-28 00:32:56,708 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeposit
+2022-12-28 00:32:59,844 - ebanking -INFO - Click On New Deposit For Check The Functionality Of TestDeposit
+2022-12-28 00:32:59,934 - ebanking -INFO - Enter Account Number For Check The Functionality Of TestDeposit
+2022-12-28 00:33:00,033 - ebanking -INFO - Enter Deposit Amount For Check The Functionality Of TestDeposit
+2022-12-28 00:33:00,107 - ebanking -INFO - Enter Narration For Check The Functionality Of TestDeposit
+2022-12-28 00:33:00,567 - ebanking -INFO - Succesfully Created Deposit Account
+2022-12-28 00:33:07,399 - ebanking -INFO - Open Base URL
+2022-12-28 00:33:07,498 - ebanking -INFO - Enter Username for check functionality of TestWithdrawal
+2022-12-28 00:33:07,580 - ebanking -INFO - Enter Password for check functionality of TestWithdrawal
+2022-12-28 00:33:09,733 - ebanking -INFO - Click On Submit Button for check functionality of TestWithdrawal
+2022-12-28 00:33:12,538 - ebanking -INFO - Click On Withdrawal for check functionality of TestWithdrawal
+2022-12-28 00:33:12,604 - ebanking -INFO - Enter Account Number for check functionality of TestWithdrawal
+2022-12-28 00:33:12,703 - ebanking -INFO - Enter Amount for check functionality of TestWithdrawal
+2022-12-28 00:33:12,788 - ebanking -INFO - Enter Narration for check functionality of TestWithdrawal
+2022-12-28 00:33:13,479 - ebanking -INFO - Amount Withdrawal Succesfully
+2022-12-28 00:33:20,256 - ebanking -INFO - Open Base URL
+2022-12-28 00:33:20,366 - ebanking -INFO - Enter Username For Check The Functionality Of TestFundTrf
+2022-12-28 00:33:20,448 - ebanking -INFO - Enter Password For Check The Functionality Of TestFundTrf
+2022-12-28 00:33:22,485 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:33:25,273 - ebanking -INFO - Click On Fund Trf For Check The Functionality Of TestFundTrf
+2022-12-28 00:33:25,363 - ebanking -INFO - Enter Applicant Acc No For Check The Functionality Of TestFundTrf
+2022-12-28 00:33:25,471 - ebanking -INFO - Enter Beneficiary Acc No For Check The Functionality Of TestFundTrf
+2022-12-28 00:33:25,536 - ebanking -INFO - Enter Amount For Check The Functionality Of TestFundTrf
+2022-12-28 00:33:25,610 - ebanking -INFO - Enter Narration For Check The Functionality Of TestFundTrf
+2022-12-28 00:33:26,322 - ebanking -INFO - Fund Trf Succesfully
+2022-12-28 00:33:33,295 - ebanking -INFO - Open Base URL
+2022-12-28 00:33:33,391 - ebanking -INFO - Enter Username For Check The Functionality Of TestChangePassword
+2022-12-28 00:33:33,467 - ebanking -INFO - Enter Password For Check The Functionality Of TestChangePassword
+2022-12-28 00:33:35,307 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestChangePassword
+2022-12-28 00:33:37,756 - ebanking -INFO - Click On Change Password For Check Functionality Of TestChangePassword
+2022-12-28 00:33:37,832 - ebanking -INFO - Enter Old Password For Check Functionality Of TestChangePassword
+2022-12-28 00:33:37,937 - ebanking -INFO - Enter New Password For Check Functionality Of TestChangePassword
+2022-12-28 00:33:37,976 - ebanking -INFO - Enter Confirm Password For Check Functionality Of TestChangePassword
+2022-12-28 00:33:38,025 - ebanking -INFO - PAssword Change Succesfully
+2022-12-28 00:33:44,944 - ebanking -INFO - Open Base URL
+2022-12-28 00:33:45,044 - ebanking -INFO - Enter Username For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:33:45,115 - ebanking -INFO - Enter Password For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:33:47,338 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:33:49,889 - ebanking -INFO - Click On Balance Enquiry For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:33:49,965 - ebanking -INFO - Enter Account No For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:33:50,051 - ebanking -INFO - Balance Check Succesfully
+2022-12-28 00:33:58,466 - ebanking -INFO - Open Base URL
+2022-12-28 00:33:58,577 - ebanking -INFO - Enter Username For Check The Functionality Of TestMiniStatement
+2022-12-28 00:33:58,649 - ebanking -INFO - Enter Password For Check The Functionality Of TestMiniStatement
+2022-12-28 00:34:00,939 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestMiniStatement
+2022-12-28 00:34:03,318 - ebanking -INFO - Click On Mini Statement For Check The Functionality Of TestMiniStatement
+2022-12-28 00:34:03,382 - ebanking -INFO - Enter Account No For Check The Functionality Of TestMiniStatement
+2022-12-28 00:34:03,417 - ebanking -INFO - Mini Statement Show Succesfully
+2022-12-28 00:34:10,474 - ebanking -INFO - Open Base URL
+2022-12-28 00:34:10,578 - ebanking -INFO - Enter Username For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:34:10,650 - ebanking -INFO - Enter Password For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:34:12,608 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:34:15,093 - ebanking -INFO - Click On Customized Statement For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:34:15,165 - ebanking -INFO - Enter Account No For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:34:15,367 - ebanking -INFO - Enter FDate For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:34:15,512 - ebanking -INFO - Enter TDate For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:34:15,567 - ebanking -INFO - Enter Transaction Value For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:34:15,621 - ebanking -INFO - Enter No Of Transaction For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:34:15,657 - ebanking -INFO - Customized Statement Show Succesfully
+2022-12-28 00:34:22,631 - ebanking -INFO - Open Base URL
+2022-12-28 00:34:22,728 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:34:22,795 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:34:24,829 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:34:27,410 - ebanking -INFO - Click On Delete Account For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:34:27,473 - ebanking -INFO - Enter Account No For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:34:27,563 - ebanking -INFO - Account Deleted Succesfully
+2022-12-28 00:34:34,707 - ebanking -INFO - Open Base URL
+2022-12-28 00:34:34,818 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:34:34,898 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:34:36,660 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:34:39,199 - ebanking -INFO - Click On Delete Customer For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:35:36,177 - ebanking -INFO - Open Base URL
+2022-12-28 00:35:36,272 - ebanking -INFO - Enter Username For Check The Functionality Of TestLogOut
+2022-12-28 00:35:36,345 - ebanking -INFO - Enter Password For Check The Functionality Of TestLogOut
+2022-12-28 00:35:38,185 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLogOut
+2022-12-28 00:39:35,986 - ebanking -INFO - Open Base URL
+2022-12-28 00:39:36,135 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:39:36,225 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:39:38,049 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:39:40,535 - ebanking -INFO - Click On Delete Customer For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:40:54,777 - ebanking -INFO - Open Base URL
+2022-12-28 00:40:54,891 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:40:54,979 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:40:56,517 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:40:58,962 - ebanking -INFO - Click On Delete Customer For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:40:59,043 - ebanking -INFO - Enter Account No For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:40:59,160 - ebanking -INFO - Customer Deleted Succesfully
+2022-12-28 00:42:14,408 - ebanking -INFO - Open Base URL
+2022-12-28 00:42:14,581 - ebanking -INFO - Enter Username For Check The Functionality Of TestEditCustomer
+2022-12-28 00:42:14,670 - ebanking -INFO - Enter Password For Check The Functionality Of TestEditCustomerr
+2022-12-28 00:42:16,303 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestEditCustomer
+2022-12-28 00:42:18,926 - ebanking -INFO - Click On Edit Customer For Check The Functionality Of TestFundTrf
+2022-12-28 00:42:18,993 - ebanking -INFO - Enter Cust ID For Check The Functionality Of TestFundTrf
+2022-12-28 00:42:23,885 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:45:54,504 - ebanking -INFO - Open Base URL
+2022-12-28 00:45:54,646 - ebanking -INFO - Enter Username For Check The Functionality Of TestEditCustomer
+2022-12-28 00:45:54,740 - ebanking -INFO - Enter Password For Check The Functionality Of TestEditCustomerr
+2022-12-28 00:45:58,033 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestEditCustomer
+2022-12-28 00:46:00,696 - ebanking -INFO - Click On Edit Customer For Check The Functionality Of TestFundTrf
+2022-12-28 00:46:00,759 - ebanking -INFO - Enter Cust ID For Check The Functionality Of TestFundTrf
+2022-12-28 00:46:02,242 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:48:00,740 - ebanking -INFO - Open Base URL
+2022-12-28 00:48:00,882 - ebanking -INFO - Enter Username For Check The Functionality Of TestEditCustomer
+2022-12-28 00:48:00,985 - ebanking -INFO - Enter Password For Check The Functionality Of TestEditCustomerr
+2022-12-28 00:48:02,803 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestEditCustomer
+2022-12-28 00:48:05,307 - ebanking -INFO - Click On Edit Customer For Check The Functionality Of TestFundTrf
+2022-12-28 00:48:05,371 - ebanking -INFO - Enter Cust ID For Check The Functionality Of TestFundTrf
+2022-12-28 00:48:06,867 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:48:18,376 - ebanking -INFO - Open Base URL
+2022-12-28 00:48:18,516 - ebanking -INFO - Enter Username For Check The Functionality Of TestEditCustomer
+2022-12-28 00:48:18,615 - ebanking -INFO - Enter Password For Check The Functionality Of TestEditCustomerr
+2022-12-28 00:48:20,185 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestEditCustomer
+2022-12-28 00:48:24,455 - ebanking -INFO - Click On Edit Customer For Check The Functionality Of TestFundTrf
+2022-12-28 00:48:24,531 - ebanking -INFO - Enter Cust ID For Check The Functionality Of TestFundTrf
+2022-12-28 00:48:26,622 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:49:30,114 - ebanking -INFO - Open Base URL
+2022-12-28 00:49:30,240 - ebanking -INFO - Enter Username For Check The Functionality Of TestEditCustomer
+2022-12-28 00:49:30,343 - ebanking -INFO - Enter Password For Check The Functionality Of TestEditCustomerr
+2022-12-28 00:49:31,859 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestEditCustomer
+2022-12-28 00:49:34,645 - ebanking -INFO - Click On Edit Customer For Check The Functionality Of TestFundTrf
+2022-12-28 00:49:34,705 - ebanking -INFO - Enter Cust ID For Check The Functionality Of TestFundTrf
+2022-12-28 00:49:36,226 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:49:36,313 - ebanking -INFO - Enter Address For Check The Functionality Of TestFundTrf
+2022-12-28 00:49:36,784 - ebanking -INFO - Customer Edit Succesfully
+2022-12-28 00:50:06,153 - ebanking -INFO - Open Base URL
+2022-12-28 00:50:06,271 - ebanking -INFO - Enter Username For Check The Functionality Of TestLogOut
+2022-12-28 00:50:06,378 - ebanking -INFO - Enter Password For Check The Functionality Of TestLogOut
+2022-12-28 00:50:08,184 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLogOut
+2022-12-28 00:51:31,123 - ebanking -INFO - Open Base URL
+2022-12-28 00:51:31,256 - ebanking -INFO - Enter Username For Check The Functionality Of TestLogOut
+2022-12-28 00:51:31,355 - ebanking -INFO - Enter Password For Check The Functionality Of TestLogOut
+2022-12-28 00:51:32,846 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLogOut
+2022-12-28 00:53:02,589 - ebanking -INFO - Open Base URL
+2022-12-28 00:53:02,718 - ebanking -INFO - Enter Username For Check The Functionality Of TestLogOut
+2022-12-28 00:53:02,827 - ebanking -INFO - Enter Password For Check The Functionality Of TestLogOut
+2022-12-28 00:53:04,654 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLogOut
+2022-12-28 00:53:08,306 - ebanking -INFO - LogOut Succesfully
+2022-12-28 00:54:09,002 - ebanking -INFO - Open BaseURL
+2022-12-28 00:54:09,132 - ebanking -INFO - Enter Username For Check The Functionality Of TestLoginPage
+2022-12-28 00:54:09,227 - ebanking -INFO - Enter Password For Check The Functionality Of TestLoginPage
+2022-12-28 00:54:11,131 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLoginPage
+2022-12-28 00:54:11,138 - ebanking -INFO - Login Test Case :- Pass
+2022-12-28 00:54:18,027 - ebanking -INFO - Open BaseURL
+2022-12-28 00:54:18,129 - ebanking -INFO - Enter Username For Check Functionality Of TestNewCust
+2022-12-28 00:54:18,207 - ebanking -INFO - Enter Password For Check Functionality Of TestNewCust
+2022-12-28 00:54:20,068 - ebanking -INFO - Click On Submit Buttton For Check Functionality Of TestNewCust
+2022-12-28 00:54:22,176 - ebanking -INFO - Click On New Customer Succesfully
+2022-12-28 00:54:29,306 - ebanking -INFO - URL is Open
+2022-12-28 00:54:29,409 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:29,491 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:31,346 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:33,524 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:33,605 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:33,690 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:33,863 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:33,924 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:33,983 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:34,044 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:34,109 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:34,174 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:34,250 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:34,313 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 00:54:34,734 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 00:54:42,852 - ebanking -INFO - Open Base URL
+2022-12-28 00:54:42,958 - ebanking -INFO - Enter Username For Check The Functionality Of TestEditCustomer
+2022-12-28 00:54:43,030 - ebanking -INFO - Enter Password For Check The Functionality Of TestEditCustomerr
+2022-12-28 00:54:44,567 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestEditCustomer
+2022-12-28 00:54:47,249 - ebanking -INFO - Click On Edit Customer For Check The Functionality Of TestFundTrf
+2022-12-28 00:54:47,296 - ebanking -INFO - Enter Cust ID For Check The Functionality Of TestFundTrf
+2022-12-28 00:54:48,786 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:54:48,865 - ebanking -INFO - Enter Address For Check The Functionality Of TestFundTrf
+2022-12-28 00:54:49,343 - ebanking -INFO - Customer Edit Succesfully
+2022-12-28 00:54:56,175 - ebanking -INFO - Open Base URL
+2022-12-28 00:54:56,274 - ebanking -INFO - Enter Username For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:54:56,354 - ebanking -INFO - Enter Password For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:54:58,414 - ebanking -INFO - Click On Submit Button For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:55:00,520 - ebanking -INFO - Click On Add New Customer For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:55:00,581 - ebanking -INFO - Enter Customer ID For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:55:00,642 - ebanking -INFO - Enter Account Type For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:55:00,696 - ebanking -INFO - Select Account Type For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:55:00,762 - ebanking -INFO - Enter Deposit Amount For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 00:55:02,501 - ebanking -INFO - Account Open Succesfully
+2022-12-28 00:55:09,453 - ebanking -INFO - Open Base URL
+2022-12-28 00:55:09,564 - ebanking -INFO - Enter Username for check functionality of TestEditAccount
+2022-12-28 00:55:09,658 - ebanking -INFO - Enter Password for check functionality of TestEditAccount
+2022-12-28 00:55:11,736 - ebanking -INFO - Click On Submit Button for check functionality of TestEditAccount
+2022-12-28 00:55:14,273 - ebanking -INFO - Click on Edit Account check functionality of TestEditAccount
+2022-12-28 00:55:14,332 - ebanking -INFO - Enter Account Number check functionality of TestEditAccount
+2022-12-28 00:55:14,434 - ebanking -INFO - Account Edit Succesfully
+2022-12-28 00:55:21,295 - ebanking -INFO - Open Base URL
+2022-12-28 00:55:21,400 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeposit
+2022-12-28 00:55:21,477 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeposit
+2022-12-28 00:55:23,363 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeposit
+2022-12-28 00:55:26,271 - ebanking -INFO - Click On New Deposit For Check The Functionality Of TestDeposit
+2022-12-28 00:55:26,340 - ebanking -INFO - Enter Account Number For Check The Functionality Of TestDeposit
+2022-12-28 00:55:26,443 - ebanking -INFO - Enter Deposit Amount For Check The Functionality Of TestDeposit
+2022-12-28 00:55:26,517 - ebanking -INFO - Enter Narration For Check The Functionality Of TestDeposit
+2022-12-28 00:55:26,965 - ebanking -INFO - Succesfully Created Deposit Account
+2022-12-28 00:55:34,192 - ebanking -INFO - Open Base URL
+2022-12-28 00:55:34,286 - ebanking -INFO - Enter Username for check functionality of TestWithdrawal
+2022-12-28 00:55:34,364 - ebanking -INFO - Enter Password for check functionality of TestWithdrawal
+2022-12-28 00:55:36,787 - ebanking -INFO - Click On Submit Button for check functionality of TestWithdrawal
+2022-12-28 00:55:40,057 - ebanking -INFO - Click On Withdrawal for check functionality of TestWithdrawal
+2022-12-28 00:55:40,122 - ebanking -INFO - Enter Account Number for check functionality of TestWithdrawal
+2022-12-28 00:55:40,180 - ebanking -INFO - Enter Amount for check functionality of TestWithdrawal
+2022-12-28 00:55:40,292 - ebanking -INFO - Enter Narration for check functionality of TestWithdrawal
+2022-12-28 00:55:41,014 - ebanking -INFO - Amount Withdrawal Succesfully
+2022-12-28 00:55:47,801 - ebanking -INFO - Open Base URL
+2022-12-28 00:55:47,903 - ebanking -INFO - Enter Username For Check The Functionality Of TestFundTrf
+2022-12-28 00:55:47,982 - ebanking -INFO - Enter Password For Check The Functionality Of TestFundTrf
+2022-12-28 00:55:50,016 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 00:55:52,819 - ebanking -INFO - Click On Fund Trf For Check The Functionality Of TestFundTrf
+2022-12-28 00:55:52,890 - ebanking -INFO - Enter Applicant Acc No For Check The Functionality Of TestFundTrf
+2022-12-28 00:55:53,007 - ebanking -INFO - Enter Beneficiary Acc No For Check The Functionality Of TestFundTrf
+2022-12-28 00:55:53,072 - ebanking -INFO - Enter Amount For Check The Functionality Of TestFundTrf
+2022-12-28 00:55:53,143 - ebanking -INFO - Enter Narration For Check The Functionality Of TestFundTrf
+2022-12-28 00:55:53,809 - ebanking -INFO - Fund Trf Succesfully
+2022-12-28 00:56:01,655 - ebanking -INFO - Open Base URL
+2022-12-28 00:56:01,751 - ebanking -INFO - Enter Username For Check The Functionality Of TestChangePassword
+2022-12-28 00:56:01,822 - ebanking -INFO - Enter Password For Check The Functionality Of TestChangePassword
+2022-12-28 00:56:03,773 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestChangePassword
+2022-12-28 00:56:05,934 - ebanking -INFO - Click On Change Password For Check Functionality Of TestChangePassword
+2022-12-28 00:56:06,001 - ebanking -INFO - Enter Old Password For Check Functionality Of TestChangePassword
+2022-12-28 00:56:06,037 - ebanking -INFO - Enter New Password For Check Functionality Of TestChangePassword
+2022-12-28 00:56:06,103 - ebanking -INFO - Enter Confirm Password For Check Functionality Of TestChangePassword
+2022-12-28 00:56:06,159 - ebanking -INFO - PAssword Change Succesfully
+2022-12-28 00:56:13,348 - ebanking -INFO - Open Base URL
+2022-12-28 00:56:13,445 - ebanking -INFO - Enter Username For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:56:13,519 - ebanking -INFO - Enter Password For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:56:15,418 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:56:18,039 - ebanking -INFO - Click On Balance Enquiry For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:56:18,112 - ebanking -INFO - Enter Account No For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 00:56:18,204 - ebanking -INFO - Balance Check Succesfully
+2022-12-28 00:56:25,080 - ebanking -INFO - Open Base URL
+2022-12-28 00:56:25,193 - ebanking -INFO - Enter Username For Check The Functionality Of TestMiniStatement
+2022-12-28 00:56:25,271 - ebanking -INFO - Enter Password For Check The Functionality Of TestMiniStatement
+2022-12-28 00:56:27,004 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestMiniStatement
+2022-12-28 00:56:29,514 - ebanking -INFO - Click On Mini Statement For Check The Functionality Of TestMiniStatement
+2022-12-28 00:56:29,583 - ebanking -INFO - Enter Account No For Check The Functionality Of TestMiniStatement
+2022-12-28 00:56:29,618 - ebanking -INFO - Mini Statement Show Succesfully
+2022-12-28 00:56:36,699 - ebanking -INFO - Open Base URL
+2022-12-28 00:56:36,803 - ebanking -INFO - Enter Username For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:56:36,888 - ebanking -INFO - Enter Password For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:56:39,182 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:56:41,660 - ebanking -INFO - Click On Customized Statement For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:56:41,729 - ebanking -INFO - Enter Account No For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:56:41,918 - ebanking -INFO - Enter FDate For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:56:42,033 - ebanking -INFO - Enter TDate For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:56:42,083 - ebanking -INFO - Enter Transaction Value For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:56:42,136 - ebanking -INFO - Enter No Of Transaction For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 00:56:42,171 - ebanking -INFO - Customized Statement Show Succesfully
+2022-12-28 00:56:49,686 - ebanking -INFO - Open Base URL
+2022-12-28 00:56:49,784 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:56:49,858 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:56:51,805 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:56:54,325 - ebanking -INFO - Click On Delete Account For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:56:54,389 - ebanking -INFO - Enter Account No For Check The Functionality Of TestDeleteAccount
+2022-12-28 00:56:54,488 - ebanking -INFO - Account Deleted Succesfully
+2022-12-28 00:57:01,560 - ebanking -INFO - Open Base URL
+2022-12-28 00:57:01,657 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:57:01,732 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:57:03,530 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:57:06,001 - ebanking -INFO - Click On Delete Customer For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:57:06,064 - ebanking -INFO - Enter Account No For Check The Functionality Of TestDeleteCutomer
+2022-12-28 00:57:06,115 - ebanking -INFO - Customer Deleted Succesfully
+2022-12-28 00:57:14,295 - ebanking -INFO - Open Base URL
+2022-12-28 00:57:14,384 - ebanking -INFO - Enter Username For Check The Functionality Of TestLogOut
+2022-12-28 00:57:14,466 - ebanking -INFO - Enter Password For Check The Functionality Of TestLogOut
+2022-12-28 00:57:15,972 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLogOut
+2022-12-28 00:57:19,625 - ebanking -INFO - LogOut Succesfully
+2022-12-28 00:59:20,186 - ebanking -INFO - Open BaseURL
+2022-12-28 00:59:20,314 - ebanking -INFO - Enter Username For Check The Functionality Of TestLoginPage
+2022-12-28 00:59:20,431 - ebanking -INFO - Enter Password For Check The Functionality Of TestLoginPage
+2022-12-28 00:59:22,452 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLoginPage
+2022-12-28 00:59:22,461 - ebanking -INFO - Login Test Case :- Pass
+2022-12-28 00:59:29,300 - ebanking -INFO - Open BaseURL
+2022-12-28 00:59:29,406 - ebanking -INFO - Enter Username For Check Functionality Of TestNewCust
+2022-12-28 00:59:29,487 - ebanking -INFO - Enter Password For Check Functionality Of TestNewCust
+2022-12-28 00:59:31,499 - ebanking -INFO - Click On Submit Buttton For Check Functionality Of TestNewCust
+2022-12-28 00:59:33,676 - ebanking -INFO - Click On New Customer Succesfully
+2022-12-28 00:59:42,010 - ebanking -INFO - URL is Open
+2022-12-28 00:59:42,108 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:42,184 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:44,051 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:46,302 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:46,380 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:46,483 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:46,626 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:46,688 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:46,746 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:46,808 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:46,868 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:46,933 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:47,016 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:47,090 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 00:59:47,519 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 00:59:56,380 - ebanking -INFO - Open Base URL
+2022-12-28 00:59:56,455 - ebanking -INFO - Enter Username For Check The Functionality Of TestEditCustomer
+2022-12-28 00:59:56,527 - ebanking -INFO - Enter Password For Check The Functionality Of TestEditCustomerr
+2022-12-28 00:59:58,145 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestEditCustomer
+2022-12-28 01:00:00,585 - ebanking -INFO - Click On Edit Customer For Check The Functionality Of TestFundTrf
+2022-12-28 01:00:00,651 - ebanking -INFO - Enter Cust ID For Check The Functionality Of TestFundTrf
+2022-12-28 01:00:02,083 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 01:00:02,165 - ebanking -INFO - Enter Address For Check The Functionality Of TestFundTrf
+2022-12-28 01:00:02,688 - ebanking -INFO - Customer Edit Succesfully
+2022-12-28 01:00:09,471 - ebanking -INFO - Open Base URL
+2022-12-28 01:00:09,580 - ebanking -INFO - Enter Username For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 01:00:09,657 - ebanking -INFO - Enter Password For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 01:00:11,151 - ebanking -INFO - Click On Submit Button For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 01:00:13,477 - ebanking -INFO - Click On Add New Customer For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 01:00:13,555 - ebanking -INFO - Enter Customer ID For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 01:00:13,664 - ebanking -INFO - Enter Account Type For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 01:00:13,715 - ebanking -INFO - Select Account Type For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 01:00:13,788 - ebanking -INFO - Enter Deposit Amount For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 01:00:15,527 - ebanking -INFO - Account Open Succesfully
+2022-12-28 01:00:23,246 - ebanking -INFO - Open Base URL
+2022-12-28 01:00:23,360 - ebanking -INFO - Enter Username for check functionality of TestEditAccount
+2022-12-28 01:00:23,439 - ebanking -INFO - Enter Password for check functionality of TestEditAccount
+2022-12-28 01:00:25,323 - ebanking -INFO - Click On Submit Button for check functionality of TestEditAccount
+2022-12-28 01:00:27,722 - ebanking -INFO - Click on Edit Account check functionality of TestEditAccount
+2022-12-28 01:00:27,786 - ebanking -INFO - Enter Account Number check functionality of TestEditAccount
+2022-12-28 01:00:27,820 - ebanking -INFO - Account Edit Succesfully
+2022-12-28 01:00:35,103 - ebanking -INFO - Open Base URL
+2022-12-28 01:00:35,181 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeposit
+2022-12-28 01:00:35,338 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeposit
+2022-12-28 01:00:37,429 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeposit
+2022-12-28 01:00:40,231 - ebanking -INFO - Click On New Deposit For Check The Functionality Of TestDeposit
+2022-12-28 01:00:40,305 - ebanking -INFO - Enter Account Number For Check The Functionality Of TestDeposit
+2022-12-28 01:00:40,419 - ebanking -INFO - Enter Deposit Amount For Check The Functionality Of TestDeposit
+2022-12-28 01:00:40,503 - ebanking -INFO - Enter Narration For Check The Functionality Of TestDeposit
+2022-12-28 01:00:40,995 - ebanking -INFO - Succesfully Created Deposit Account
+2022-12-28 01:00:48,152 - ebanking -INFO - Open Base URL
+2022-12-28 01:00:48,253 - ebanking -INFO - Enter Username for check functionality of TestWithdrawal
+2022-12-28 01:00:48,327 - ebanking -INFO - Enter Password for check functionality of TestWithdrawal
+2022-12-28 01:00:49,781 - ebanking -INFO - Click On Submit Button for check functionality of TestWithdrawal
+2022-12-28 01:00:52,760 - ebanking -INFO - Click On Withdrawal for check functionality of TestWithdrawal
+2022-12-28 01:00:52,853 - ebanking -INFO - Enter Account Number for check functionality of TestWithdrawal
+2022-12-28 01:00:52,947 - ebanking -INFO - Enter Amount for check functionality of TestWithdrawal
+2022-12-28 01:00:53,027 - ebanking -INFO - Enter Narration for check functionality of TestWithdrawal
+2022-12-28 01:00:53,725 - ebanking -INFO - Amount Withdrawal Succesfully
+2022-12-28 01:01:00,673 - ebanking -INFO - Open Base URL
+2022-12-28 01:01:00,791 - ebanking -INFO - Enter Username For Check The Functionality Of TestFundTrf
+2022-12-28 01:01:00,871 - ebanking -INFO - Enter Password For Check The Functionality Of TestFundTrf
+2022-12-28 01:01:02,610 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 01:01:05,464 - ebanking -INFO - Click On Fund Trf For Check The Functionality Of TestFundTrf
+2022-12-28 01:01:05,534 - ebanking -INFO - Enter Applicant Acc No For Check The Functionality Of TestFundTrf
+2022-12-28 01:01:05,635 - ebanking -INFO - Enter Beneficiary Acc No For Check The Functionality Of TestFundTrf
+2022-12-28 01:01:05,704 - ebanking -INFO - Enter Amount For Check The Functionality Of TestFundTrf
+2022-12-28 01:01:05,779 - ebanking -INFO - Enter Narration For Check The Functionality Of TestFundTrf
+2022-12-28 01:01:06,460 - ebanking -INFO - Fund Trf Succesfully
+2022-12-28 01:01:13,337 - ebanking -INFO - Open Base URL
+2022-12-28 01:01:13,438 - ebanking -INFO - Enter Username For Check The Functionality Of TestChangePassword
+2022-12-28 01:01:13,513 - ebanking -INFO - Enter Password For Check The Functionality Of TestChangePassword
+2022-12-28 01:01:15,449 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestChangePassword
+2022-12-28 01:01:17,629 - ebanking -INFO - Click On Change Password For Check Functionality Of TestChangePassword
+2022-12-28 01:01:17,694 - ebanking -INFO - Enter Old Password For Check Functionality Of TestChangePassword
+2022-12-28 01:01:17,731 - ebanking -INFO - Enter New Password For Check Functionality Of TestChangePassword
+2022-12-28 01:01:17,802 - ebanking -INFO - Enter Confirm Password For Check Functionality Of TestChangePassword
+2022-12-28 01:01:17,856 - ebanking -INFO - PAssword Change Succesfully
+2022-12-28 01:01:26,734 - ebanking -INFO - Open Base URL
+2022-12-28 01:01:26,839 - ebanking -INFO - Enter Username For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 01:01:26,912 - ebanking -INFO - Enter Password For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 01:01:29,138 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 01:01:31,806 - ebanking -INFO - Click On Balance Enquiry For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 01:01:31,873 - ebanking -INFO - Enter Account No For Check The Functionality Of TestBalanceEnquiry
+2022-12-28 01:01:31,910 - ebanking -INFO - Balance Check Succesfully
+2022-12-28 01:01:38,735 - ebanking -INFO - Open Base URL
+2022-12-28 01:01:38,812 - ebanking -INFO - Enter Username For Check The Functionality Of TestMiniStatement
+2022-12-28 01:01:38,878 - ebanking -INFO - Enter Password For Check The Functionality Of TestMiniStatement
+2022-12-28 01:01:40,946 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestMiniStatement
+2022-12-28 01:01:43,297 - ebanking -INFO - Click On Mini Statement For Check The Functionality Of TestMiniStatement
+2022-12-28 01:01:43,358 - ebanking -INFO - Enter Account No For Check The Functionality Of TestMiniStatement
+2022-12-28 01:01:43,394 - ebanking -INFO - Mini Statement Show Succesfully
+2022-12-28 01:01:50,232 - ebanking -INFO - Open Base URL
+2022-12-28 01:01:50,344 - ebanking -INFO - Enter Username For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 01:01:50,431 - ebanking -INFO - Enter Password For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 01:01:52,331 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 01:01:55,024 - ebanking -INFO - Click On Customized Statement For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 01:01:55,096 - ebanking -INFO - Enter Account No For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 01:01:55,291 - ebanking -INFO - Enter FDate For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 01:01:55,410 - ebanking -INFO - Enter TDate For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 01:01:55,485 - ebanking -INFO - Enter Transaction Value For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 01:01:55,539 - ebanking -INFO - Enter No Of Transaction For Check The Functionality Of TeetCutomizedStatement
+2022-12-28 01:01:55,582 - ebanking -INFO - Customized Statement Show Succesfully
+2022-12-28 01:02:02,462 - ebanking -INFO - Open Base URL
+2022-12-28 01:02:02,563 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeleteAccount
+2022-12-28 01:02:02,650 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeleteAccount
+2022-12-28 01:02:04,052 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeleteAccount
+2022-12-28 01:02:08,133 - ebanking -INFO - Click On Delete Account For Check The Functionality Of TestDeleteAccount
+2022-12-28 01:02:08,287 - ebanking -INFO - Enter Account No For Check The Functionality Of TestDeleteAccount
+2022-12-28 01:02:08,346 - ebanking -INFO - Account Deleted Succesfully
+2022-12-28 01:02:15,284 - ebanking -INFO - Open Base URL
+2022-12-28 01:02:15,391 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeleteCutomer
+2022-12-28 01:02:15,485 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeleteCutomer
+2022-12-28 01:02:17,717 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeleteCutomer
+2022-12-28 01:02:20,082 - ebanking -INFO - Click On Delete Customer For Check The Functionality Of TestDeleteCutomer
+2022-12-28 01:02:20,162 - ebanking -INFO - Enter Account No For Check The Functionality Of TestDeleteCutomer
+2022-12-28 01:02:20,260 - ebanking -INFO - Customer Deleted Succesfully
+2022-12-28 01:02:27,491 - ebanking -INFO - Open Base URL
+2022-12-28 01:02:27,626 - ebanking -INFO - Enter Username For Check The Functionality Of TestLogOut
+2022-12-28 01:02:27,724 - ebanking -INFO - Enter Password For Check The Functionality Of TestLogOut
+2022-12-28 01:02:29,108 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLogOut
+2022-12-28 01:02:32,766 - ebanking -INFO - LogOut Succesfully

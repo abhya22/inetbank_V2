@@ -3,13 +3,27 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="inetBanking_V2.adasdas">
+      <class name="inetBanking_V2.TC_DeleteCustomer_015">
+        <methods>
+          <include name="TestDeleteCutomer"/>
+          <include name="Setup"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- inetBanking_V2.TC_DeleteCustomer_015 -->
+      <class name="inetBanking_V2.TC_LogOut_016">
+        <methods>
+          <include name="Setup"/>
+          <include name="TestLogOut"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- inetBanking_V2.TC_LogOut_016 -->
+      <class name="inetBanking_V2.TC_EditCustomer_004">
         <methods>
           <include name="Setup"/>
           <include name="Teardown"/>
-          <include name="TestNewCust"/>
+          <include name="TestEditCustomer"/>
         </methods>
-      </class> <!-- inetBanking_V2.adasdas -->
+      </class> <!-- inetBanking_V2.TC_EditCustomer_004 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
