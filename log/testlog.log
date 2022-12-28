@@ -834,3 +834,239 @@
 2022-12-28 01:02:27,724 - ebanking -INFO - Enter Password For Check The Functionality Of TestLogOut
 2022-12-28 01:02:29,108 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestLogOut
 2022-12-28 01:02:32,766 - ebanking -INFO - LogOut Succesfully
+2022-12-28 01:58:02,710 - ebanking -INFO - Open Base URL
+2022-12-28 01:58:02,854 - ebanking -INFO - Enter Username For Check The Functionality Of TestFundTrf
+2022-12-28 01:58:02,988 - ebanking -INFO - Enter Password For Check The Functionality Of TestFundTrf
+2022-12-28 01:58:04,585 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestFundTrf
+2022-12-28 21:43:56,268 - ebanking -INFO - Open Base URL
+2022-12-28 21:43:56,515 - ebanking -INFO - Enter Username For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 21:43:56,620 - ebanking -INFO - Enter Password For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 21:43:58,607 - ebanking -INFO - Click On Submit Button For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 21:44:00,999 - ebanking -INFO - Click On Add New Customer For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 21:44:01,260 - ebanking -INFO - Enter Customer ID For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 21:44:01,381 - ebanking -INFO - Enter Account Type For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 21:44:01,460 - ebanking -INFO - Select Account Type For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 21:44:01,550 - ebanking -INFO - Enter Deposit Amount For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 21:44:04,681 - ebanking -INFO - Account Open Succesfully
+2022-12-28 22:46:46,616 - ebanking -INFO - Open Base URL
+2022-12-28 22:46:46,755 - ebanking -INFO - Enter Username For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 22:46:46,881 - ebanking -INFO - Enter Password For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 22:46:49,149 - ebanking -INFO - Click On Submit Button For Check The Functionalilty Of TestAddNewAccount
+2022-12-28 22:56:00,835 - ebanking -INFO - URL is Open
+2022-12-28 22:56:01,026 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:01,152 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:04,057 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:07,301 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:07,396 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:07,536 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:07,711 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:07,783 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:07,856 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:07,924 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:07,990 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:08,065 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:08,165 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:08,241 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 22:56:08,307 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 22:57:48,310 - ebanking -INFO - URL is Open
+2022-12-28 22:57:48,473 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:48,582 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:50,821 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:53,216 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:53,295 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:53,427 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:53,615 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:53,684 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:53,748 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:53,826 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:53,901 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:53,982 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:54,083 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:54,168 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 22:57:54,233 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 22:59:05,286 - ebanking -INFO - URL is Open
+2022-12-28 22:59:05,446 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:05,584 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:08,134 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:10,781 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:10,871 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:10,956 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:11,165 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:11,231 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:11,304 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:11,383 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:11,452 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:11,524 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:11,621 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:11,695 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 22:59:12,127 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:00:06,529 - ebanking -INFO - Open Base URL
+2022-12-28 23:00:06,728 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeposit
+2022-12-28 23:00:06,823 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeposit
+2022-12-28 23:00:10,070 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeposit
+2022-12-28 23:00:13,877 - ebanking -INFO - Click On New Deposit For Check The Functionality Of TestDeposit
+2022-12-28 23:00:13,951 - ebanking -INFO - Enter Account Number For Check The Functionality Of TestDeposit
+2022-12-28 23:00:14,097 - ebanking -INFO - Enter Deposit Amount For Check The Functionality Of TestDeposit
+2022-12-28 23:00:14,205 - ebanking -INFO - Enter Narration For Check The Functionality Of TestDeposit
+2022-12-28 23:00:14,701 - ebanking -INFO - Succesfully Created Deposit Account
+2022-12-28 23:21:09,051 - ebanking -INFO - Open Base URL
+2022-12-28 23:21:09,161 - ebanking -INFO - Enter Username For Check The Functionality Of TestDeposit
+2022-12-28 23:21:09,243 - ebanking -INFO - Enter Password For Check The Functionality Of TestDeposit
+2022-12-28 23:21:10,769 - ebanking -INFO - Click On Submit Button For Check The Functionality Of TestDeposit
+2022-12-28 23:21:15,227 - ebanking -INFO - Click On New Deposit For Check The Functionality Of TestDeposit
+2022-12-28 23:21:15,390 - ebanking -INFO - Enter Account Number For Check The Functionality Of TestDeposit
+2022-12-28 23:21:15,467 - ebanking -INFO - Enter Deposit Amount For Check The Functionality Of TestDeposit
+2022-12-28 23:21:15,605 - ebanking -INFO - Enter Narration For Check The Functionality Of TestDeposit
+2022-12-28 23:22:38,673 - ebanking -INFO - URL is Open
+2022-12-28 23:22:38,839 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:38,957 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:40,333 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:43,355 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:43,472 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:43,528 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:43,779 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:43,872 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:43,945 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:44,019 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:44,096 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:44,183 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:44,285 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:44,358 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:22:44,438 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:22:47,473 - ebanking -INFO - User Creation Failed
+2022-12-28 23:28:07,875 - ebanking -INFO - URL is Open
+2022-12-28 23:28:08,027 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:08,143 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:10,144 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:12,533 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:12,607 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:12,733 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:12,917 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:12,995 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:13,060 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:13,130 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:13,193 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:13,260 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:13,348 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:13,418 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:28:13,485 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:28:16,512 - ebanking -INFO - User Creation Failed
+2022-12-28 23:30:00,027 - ebanking -INFO - URL is Open
+2022-12-28 23:30:00,171 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:00,284 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:01,919 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:04,481 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:04,551 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:04,640 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:04,803 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:04,866 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:04,927 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:04,988 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:05,050 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:05,125 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:05,214 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:05,281 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:30:05,364 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:30:08,391 - ebanking -INFO - User Creation Failed
+2022-12-28 23:31:30,340 - ebanking -INFO - URL is Open
+2022-12-28 23:31:30,498 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:30,604 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:32,120 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:36,306 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:36,370 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:36,423 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:36,657 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:36,746 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:36,813 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:36,880 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:36,964 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:37,043 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:37,131 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:37,199 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:31:37,268 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:31:40,288 - ebanking -INFO - User Creation Failed
+2022-12-28 23:36:03,214 - ebanking -INFO - URL is Open
+2022-12-28 23:36:03,400 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:03,518 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:05,770 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:08,338 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:08,421 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:08,474 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:08,705 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:08,767 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:08,830 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:08,905 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:08,969 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:09,046 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:09,140 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:09,202 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:36:09,275 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:36:12,302 - ebanking -INFO - User Creation Failed
+2022-12-28 23:38:12,890 - ebanking -INFO - URL is Open
+2022-12-28 23:38:13,054 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:13,162 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:15,419 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:17,995 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,101 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,230 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,409 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,472 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,535 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,604 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,664 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,742 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,842 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,910 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:38:18,974 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:38:22,004 - ebanking -INFO - User Creation Failed
+2022-12-28 23:42:08,828 - ebanking -INFO - URL is Open
+2022-12-28 23:42:09,080 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:09,199 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:11,020 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:13,679 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:13,911 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:13,990 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:14,276 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:14,450 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:14,605 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:14,790 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:14,884 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:14,979 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:15,191 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:15,359 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:42:16,237 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:42:19,300 - ebanking -INFO - User Creation Failed
+2022-12-28 23:43:26,852 - ebanking -INFO - URL is Open
+2022-12-28 23:43:27,133 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:27,271 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:29,797 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:32,396 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:32,682 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:32,766 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:32,978 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:33,100 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:33,247 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:33,430 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:33,533 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:33,633 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:33,852 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:33,989 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:43:34,526 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:43:42,571 - ebanking -INFO - User Creation Failed
+2022-12-28 23:45:42,086 - ebanking -INFO - URL is Open
+2022-12-28 23:45:42,369 - ebanking -INFO - Enter UserName For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:42,494 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:45,366 - ebanking -INFO - Click On Submit Button For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:48,439 - ebanking -INFO - Click On Add New Csutomer For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:48,743 - ebanking -INFO - Enter Customer Name For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:48,814 - ebanking -INFO - Enter Gender For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:49,017 - ebanking -INFO - Enter Date Of Birth For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:49,118 - ebanking -INFO - Enter Address For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:49,246 - ebanking -INFO - Enter City For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:49,418 - ebanking -INFO - Enter State For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:49,555 - ebanking -INFO - Enter Pin COde For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:49,707 - ebanking -INFO - Enter Mobile Number For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:49,886 - ebanking -INFO - Enter E-mail For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:50,051 - ebanking -INFO - Enter Password For Check Functionality Of TestAddCustDetails
+2022-12-28 23:45:52,018 - ebanking -INFO - Customer Details Add Succesfully
+2022-12-28 23:46:00,096 - ebanking -INFO - user creation Passed

@@ -1,15 +1,21 @@
 package inetBanking_V2;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.inetbanking.BaseClass.BaseClass;
 import com.inetbanking.PageObject.AddCutomerPage;
 import com.inetbanking.PageObject.LoginPage;
+import com.inetbanking.Utilities.ScreenShots;
+
+import net.bytebuddy.utility.RandomString;
 
 public class TC_AddCutomerPage_003 extends BaseClass {
-
+	public boolean Test;
 	@Test
-	public void TestAddCustDetails() {
+	public void TestAddCustDetails() throws InterruptedException {
 		// 1. Open Base URL
 		driver.get(BaseURL);
 		Logger.info("URL is Open");
@@ -43,11 +49,33 @@ public class TC_AddCutomerPage_003 extends BaseClass {
 		Logger.info("Enter Pin COde For Check Functionality Of TestAddCustDetails");
 		AC.CutomerMobNo("8888686511");
 		Logger.info("Enter Mobile Number For Check Functionality Of TestAddCustDetails");
-		AC.CutomerEmail("amudholkar52@gmail.com");
+		String Emailr = RandomString.make(7);
+		AC.CutomerEmail(Emailr+"@gmail.com");
 		Logger.info("Enter E-mail For Check Functionality Of TestAddCustDetails");
 		AC.CutomerPassword("Abhishek@123");
 		Logger.info("Enter Password For Check Functionality Of TestAddCustDetails");
 		AC.submitbutton();
 		Logger.info("Customer Details Add Succesfully");
+		Thread.sleep(5000);
+		
+		if (ExpectedConditions.alertIsPresent() != null) {
+			try {
+				driver.switchTo().alert().accept();
+			} catch (Exception e) {
+				Test = driver.findElement(By.xpath("//p[contains(text(),\"Customer Registered Successfully!!!\")]"))
+						.isDisplayed();
+				e.printStackTrace();
+			}
+		}
+		Thread.sleep(3000);
+		if (Test == true) {
+			Logger.info("user creation Passed");
+			Assert.assertTrue(true);
+		} else if (Test == false) {
+			Logger.info("User Creation Failed");
+			ScreenShots.CaptureScreenshots("Add User");
+			Assert.assertTrue(false);
+		}
 	}
 }
+

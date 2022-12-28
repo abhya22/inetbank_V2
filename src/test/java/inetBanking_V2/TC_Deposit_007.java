@@ -1,15 +1,20 @@
 package inetBanking_V2;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.inetbanking.BaseClass.BaseClass;
 import com.inetbanking.PageObject.Deposit;
 import com.inetbanking.PageObject.LoginPage;
+import com.inetbanking.Utilities.ScreenShots;
 
 public class TC_Deposit_007 extends BaseClass {
+	public boolean Test;
 
 	@Test
-	public void TestDeposit() {
+	public void TestDeposit() throws InterruptedException {
 
 		// 1. Open Base URL
 		driver.get(BaseURL);
@@ -36,5 +41,6 @@ public class TC_Deposit_007 extends BaseClass {
 		Logger.info("Enter Narration For Check The Functionality Of TestDeposit");
 		FD.sumbitbtn();
 		Logger.info("Succesfully Created Deposit Account");
+	
 	}
 }

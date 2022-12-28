@@ -11,7 +11,7 @@ public class FundTransfer extends BaseClass {
 		PageFactory.initElements(driver, this);
 	}
 
-	@FindBy(xpath = "//a[text()=\"Fund Transfer\"]")
+	@FindBy(xpath = "//a[text()=\"Fund Transfe\"]")
 	public WebElement FundTransfer;
 
 	@FindBy(xpath = "//input[@name=\"payersaccount\"]")

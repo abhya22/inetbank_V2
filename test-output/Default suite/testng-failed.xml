@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="inetBanking_V2.TC_LogOut_016">
+      <class name="inetBanking_V2.TC_AddCutomerPage_003">
         <methods>
           <include name="Setup"/>
-          <include name="TestLogOut"/>
+          <include name="TestAddCustDetails"/>
           <include name="Teardown"/>
         </methods>
-      </class> <!-- inetBanking_V2.TC_LogOut_016 -->
+      </class> <!-- inetBanking_V2.TC_AddCutomerPage_003 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
